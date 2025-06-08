@@ -1,0 +1,26 @@
+{
+    "pt": {
+        "btnLanguage": "PT",
+        "profileBioSub": "Desenvolvedor Fullstack",
+        "profileBioDesc1": "Sou desenvolvedor full stack com foco em criar soluções eficientes, escaláveis e com uma experiência de usuário intuitiva.",
+        "profileBioDesc2": "Tenho experiência com tecnologias como React, TypeScript, JavaScript, HTML, CSS, além de ferramentas e frameworks como Node.js, Express, SQL, REST APIs e plataformas low-code como OutSystems. No meu processo de trabalho, valorizo a clareza de código, boas práticas de desenvolvimento, versionamento com Git e colaboração ágil em equipe.",
+        "profileBioDesc3": "Meu portfólio reflete projetos pessoais que demonstram minha versatilidade como desenvolvedor. Conforme novos projetos forem finalizados, serão adicionados.",
+        "profileBioDesc4": "Seja bem-vindo(a) e fique à vontade para explorar!",
+        "myProjects": "Meus Projetos",
+        "downloadResume": "Curriculo",
+        "bioTexto1": "Sou desenvolvedor full stack com foco em criar soluções...",
+        "projectBack3": "Em andamento..."
+    },
+    "en": {
+        "btnLanguage": "EN",
+        "profileBioSub": "Fullstack Developer",
+        "profileBioDesc1": "I'm a full stack developer focused on creating efficient, scalable solutions with an intuitive user experience.",
+        "profileBioDesc2": "I have experience with technologies like React, TypeScript, JavaScript, HTML, CSS, and tools and frameworks such as Node.js, Express, SQL, REST APIs, and low-code platforms like OutSystems. In my workflow, I value clean code, best development practices, version control with Git, and agile team collaboration.",
+        "profileBioDesc3": "My portfolio reflects personal projects that showcase my versatility as a developer. As new projects are completed, they will be added.",
+        "profileBioDesc4": "Welcome, and feel free to explore!",
+        "myProjects": "My Projects",
+        "downloadResume": "Resume",
+        "bioTexto1": "I'm a full stack developer focused on building efficient solutions...",
+        "projectBack3": "Work in progress..."
+    }
+}
