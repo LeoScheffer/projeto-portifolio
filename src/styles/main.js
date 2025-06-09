@@ -19,7 +19,7 @@ function aplicarTraducoes() {
 function trocarIdioma() {
     idiomaAtual = idiomaAtual === 'pt' ? 'en' : 'pt';
     aplicarTraducoes();
-            console.log(idiomaAtual)
+    console.log(idiomaAtual)
 }
 
 window.onload = carregarTraducoes;
@@ -28,6 +28,10 @@ window.onload = carregarTraducoes;
 cards.forEach(card => {
     card.addEventListener('click', () => {
         const url = card.getAttribute('data-url');
+        if (!url || url === 'javascript:void(0)') {
+            e.preventDefault(); 
+            return;
+        }
         window.open(url, '_blank');
     });
 });
