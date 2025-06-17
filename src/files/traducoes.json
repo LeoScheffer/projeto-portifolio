@@ -9,7 +9,7 @@
         "myProjects": "Meus Projetos",
         "downloadResume": "Curriculo",
         "bioTexto1": "Sou desenvolvedor full stack com foco em criar soluções...",
-        "projectBack3": "Em andamento..."
+        "projectBack3": "React, TypeScript, Vite, OpenAI, Google Gemini (text + image), CSS (inline styles, mobile-oriented)"
     },
     "en": {
         "btnLanguage": "EN",
@@ -21,6 +21,6 @@
         "myProjects": "My Projects",
         "downloadResume": "Resume",
         "bioTexto1": "I'm a full stack developer focused on building efficient solutions...",
-        "projectBack3": "Work in progress..."
+        "projectBack3": "React, TypeScript, Vite, OpenAI, Google Gemini (text + image), CSS (inline styles, mobile-oriented)"
     }
 }
